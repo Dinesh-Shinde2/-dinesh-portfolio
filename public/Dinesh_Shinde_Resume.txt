@@ -1,0 +1,83 @@
+======================================================================
+                     DINESH SHINDE - CV / RESUME
+         QA Engineer | Manual Tester | Test Automation Specialist
+======================================================================
+
+CONTACT DETAILS
+----------------------------------------------------------------------
+Location: Surat, Gujarat, India
+Email: dinesh.shinde.qa@gmail.com
+LinkedIn: https://linkedin.com/in/dinesh-shinde-qa
+GitHub: https://github.com/dineshshinde
+
+PROFESSIONAL SUMMARY
+----------------------------------------------------------------------
+Detail-oriented Quality Assurance (QA) Engineer with solid expertise in
+both manual and automated testing methodologies. Specializes in building
+robust end-to-end testing frameworks using Playwright (TypeScript/JS),
+automating API validations via Postman, and verifying complex database
+schemas and CRUD procedures using SQL. Passionate about enhancing software
+reliability, optimizing test execution speeds, and contributing to
+efficient agile release cycles.
+
+EDUCATION
+----------------------------------------------------------------------
+* Master of Computer Applications (MCA) - Pursuing (GTU)
+* Bachelor of Computer Applications (BCA) - Graduate (VNSGU), 2024
+
+CORE SKILLS
+----------------------------------------------------------------------
+Testing:
+  - Manual & Automation Testing
+  - Playwright Automation
+  - Selenium WebDriver
+  - API Testing & Validation (Postman, Newman CLI)
+  - Regression Testing & Smoke Testing
+  - STLC (Software Testing Life Cycle)
+  - SDLC (Software Development Life Cycle)
+  - Agile & Scrum Frameworks
+
+Programming Languages:
+  - TypeScript, JavaScript
+  - Python
+  - SQL
+  - HTML, CSS
+
+Databases:
+  - PostgreSQL
+  - MySQL
+  - MongoDB
+
+Tools:
+  - Git & GitHub
+  - Jira
+  - VS Code
+  - pgAdmin
+  - JMeter
+
+KEY PROJECTS
+----------------------------------------------------------------------
+1. E2E QA Automation Framework (Playwright)
+   - Created a cross-browser End-to-End automation framework using TypeScript 
+     and the Page Object Model (POM) pattern.
+   - Built custom HTML reporting hooks with embedded console traces and 
+     visual screenshot captures on failure.
+   - Orchestrated CI/CD automation pipelines via GitHub Actions.
+
+2. Automated API Testing Suite (Postman)
+   - Designed Javascript assertions inside Postman Collections to validate 
+     JSON schemas, status codes, and latency budgets for 25+ endpoints.
+   - Integrated Newman CLI inside local workflow triggers.
+
+3. Blood Donation Management System (PHP / MySQL)
+   - Developed a responsive CRUD administrative portal to register donors, 
+     validate credentials, and log blood stock distributions.
+
+4. Career Catalyst Institute Website (React / Python)
+   - Built a responsive student catalog and booking portal utilizing React 
+     and PostgreSQL, verifying database persistence.
+
+======================================================================
+(Note: You can replace this text file with your actual PDF resume inside
+the public/ directory, naming it Dinesh_Shinde_Resume.pdf if preferred.)
+======================================================================
